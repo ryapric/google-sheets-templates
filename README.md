@@ -7,8 +7,8 @@ at all that can be managed in a typical spreadsheet program. These shared Sheets
 should be *read-only* to prevent a mess, and users can make a copy to their own
 account in order to customize further.
 
-Peronal Finance
----------------
+Personal Finance
+----------------
 
 * [Personal Finances](https://docs.google.com/spreadsheets/d/1RsUboySa_RHga-Ituf-jKzl4w3Yq9JhvpQQMRVPuw8E/edit?usp=sharing) - @ryapric
     - This Sheet has tabs for full paycheck estimation & outlay, expenses &
